@@ -26,3 +26,4 @@ I think github is very helpful not only for cs260 course, but also for any other
 The fact that many people can work on same projects at their own developement environment, and just push and pull the changes we've made is so fascinating!
 
 # Jonghyuk Lee's Note
+I think it's fascinating to see how I can save and load my code from the website. And with git and Github, I can work with other people when I'm not with them.
